@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+pillow>=9.0.0
+dlib>=19.24.0
+numpy>=1.24.0
+pyyaml>=6.0.0
+mtcnn>=0.1.1
+pandas>=2.0.0
+accelerate>=0.26.0
+pytesseract>=0.3.13
+opencv-python>=4.10.0

@@ -1,0 +1,17 @@
+# DeepFace 기반 나이 예측 설정
+age_detection:
+  min_confidence: 0.7  # 최소 신뢰도 기준
+  underage_threshold: 19  # 미성년자 기준 나이
+  face_size_threshold: 50  # 최소 얼굴 크기 (픽셀)
+
+# 데이터 처리 설정
+data:
+  input_dir: "data/policemonitor_20241216-20241222"
+  output_dir: "output"
+  supported_formats: [".jpg", ".jpeg", ".png", ".webp"]
+
+# 리포트 설정
+reporting:
+  save_format: "csv"
+  include_face_ratio: true
+  include_age_distribution: true

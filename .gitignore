@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+venv/
+ENV/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+*.csv
+*.txt
+!requirements.txt
+!README.txt 
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
+*.svg
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+# 민감한 정보가 포함된 파일
+scraper/index.js
+scraper/start_from_login.js
+scraper/scraper.js
+scraper/config.js
+scraper/browser_state.json
+sorter/settings.json
+
+# 환경 변수 파일
+.env
+.env.*
+*.config.js
+**/config/*.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# 모델 및 데이터 파일
+*.h5
+*.hdf5
+*.pkl
+*.model
+*.bin
+prediction/data/*
+prediction/output/*
+*.log
+!.gitkeep
+
+# 임시 파일 및 캐시
+*.tmp
+*.temp
+*.cache
+browser_state.json

@@ -1,0 +1,21 @@
+# 민감한 정보가 포함된 파일
+index.js
+start_from_login.js
+
+# 환경 변수 파일
+.env
+
+# Node.js 관련
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 캡처 이미지 등 결과물
+captures/
+*.png
+*.jpg
+
+# IDE 관련
+.vscode/
+.idea/ 
