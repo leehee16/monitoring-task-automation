@@ -18,4 +18,59 @@ captures/
 
 # IDE 관련
 .vscode/
-.idea/ 
+.idea/
+
+# History 폴더 (민감한 데이터 포함)
+history/
+**/history/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 가상환경
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 로그 파일
+*.log
+logs/
+log/
+
+# 임시 파일
+*.tmp
+.DS_Store
+
+# Excel 파일 (분류 데이터)
+*.xlsx
+*.xls
+
+# 이미지 파일
+*.jpg
+*.jpeg
+*.png
+*.gif 
