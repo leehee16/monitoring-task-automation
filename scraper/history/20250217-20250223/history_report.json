@@ -1,0 +1,5323 @@
+{
+  "totalUsers": 664,
+  "usersByConsecutiveWeeks": {
+    "1": 664
+  },
+  "usersByTotalDetections": {
+    "1": 664
+  },
+  "recentActivity": [
+    {
+      "fbUid": "4b2YFtMRKRWhxJAkwi0HHugxhNp1",
+      "lastUpdate": "2025-02-24T21:27:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AR"
+    },
+    {
+      "fbUid": "WC72CQ2nOxfTDYvWCcnJi9zwy0r2",
+      "lastUpdate": "2025-02-24T21:27:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AR"
+    },
+    {
+      "fbUid": "04s9PyB4e9QSQK0GhUMk3nHFnYm2",
+      "lastUpdate": "2025-02-24T21:27:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "yhKvkltfbzQS1gbWfgO8IePkzHh2",
+      "lastUpdate": "2025-02-24T21:27:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AR"
+    },
+    {
+      "fbUid": "1xQzMdeL6YSibLaNSPrplxA6Mi63",
+      "lastUpdate": "2025-02-24T21:27:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "0zoQJXkVEAOI0Bmn9b5ILcEPBjw1",
+      "lastUpdate": "2025-02-24T21:27:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "2AuRQHFuibeWYwLowSxiiavKId32",
+      "lastUpdate": "2025-02-24T21:27:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "287TmUrCnfajXVJHBIFdo9lqnmc2",
+      "lastUpdate": "2025-02-24T21:27:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "3MQlqVfJuCYTIHThK7NTdPy42R03",
+      "lastUpdate": "2025-02-24T21:27:44+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "2PNQNTI0heb5pMmT5a7tl639fBr1",
+      "lastUpdate": "2025-02-24T21:27:44+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "4pyeASf0d7SQrqFhOoMMbElmb7D3",
+      "lastUpdate": "2025-02-24T21:27:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "45JqzKo43bc7KVvP3pYJugK8E7B3",
+      "lastUpdate": "2025-02-24T21:27:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "6S8qjqODSkUi2lmyHQCRkJAV8mt1",
+      "lastUpdate": "2025-02-24T21:27:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "6OG9OOczFihF1y8ifIFaxQSbhXT2",
+      "lastUpdate": "2025-02-24T21:27:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "6goRcVuVFEedl3vfRa6ft5mz6Fw2",
+      "lastUpdate": "2025-02-24T21:27:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "7N7eAQGEKHO2Hz6W2LVqk5i3tk52",
+      "lastUpdate": "2025-02-24T21:27:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "8BhjcJn3E5fHCT9zVGcmH33XEV33",
+      "lastUpdate": "2025-02-24T21:28:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "7SPubugVIQfSSWL1TL9btbBRnnE3",
+      "lastUpdate": "2025-02-24T21:28:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "9IVFfSyDWlcDvMcTsuHaWB4ak7v1",
+      "lastUpdate": "2025-02-24T21:28:05+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "8xw90rD3EZY3ApL8jNDNL2W2kzv1",
+      "lastUpdate": "2025-02-24T21:28:05+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "CK1dsvWzipcuQaocNebWj3WQcsn2",
+      "lastUpdate": "2025-02-24T21:28:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "BoUzdm3dfBPjQOn8wfvVHQOJXdv1",
+      "lastUpdate": "2025-02-24T21:28:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "CavfE5MN0eO2tAsE1pMVmtR6Xd83",
+      "lastUpdate": "2025-02-24T21:28:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "CV8ymPOYWgMt1oWsS4pAzf7FiIF2",
+      "lastUpdate": "2025-02-24T21:28:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "CfXYDNX3Lmcjnu2WZnPlfSaOoPt1",
+      "lastUpdate": "2025-02-24T21:28:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "CeRHlbJEF2QBEryavNCPIFrKzqC2",
+      "lastUpdate": "2025-02-24T21:28:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "FrjbNtPF6VO6ditJ7CwuCETdrGF2",
+      "lastUpdate": "2025-02-24T21:28:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "FhjGOtR2iTem3kAVT819hcSkdnQ2",
+      "lastUpdate": "2025-02-24T21:28:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "GNcaoMm6oeeNdUmdufmPM7bK8HA3",
+      "lastUpdate": "2025-02-24T21:28:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "GAwheMGAotc1yCRSOXJOiGBOkpn1",
+      "lastUpdate": "2025-02-24T21:28:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "H3Bxpo0bDtVu0CYRDe4PPrTo8zw1",
+      "lastUpdate": "2025-02-24T21:28:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "GbrbKlZ9uoZYXu9nlboueQZS8z13",
+      "lastUpdate": "2025-02-24T21:28:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "HXnlEEtz0RT0rfpHNeESzvMeJtl2",
+      "lastUpdate": "2025-02-24T21:28:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "H5S6CafYkWY8Q0eAbAQgvIuHo0l2",
+      "lastUpdate": "2025-02-24T21:28:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "L5MJP6FEjShMpWjXa4pRWWCGmhr2",
+      "lastUpdate": "2025-02-24T21:28:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "JtMMTkKp0aOLQp898mvMOBRbVFy2",
+      "lastUpdate": "2025-02-24T21:28:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "LEaZL9u8TMccdPFO32xeJh0Fnom1",
+      "lastUpdate": "2025-02-24T21:28:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "Oasl9dghznNE7iKHw3mhZ6OzY5h1",
+      "lastUpdate": "2025-02-24T21:28:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "QSYZlPUkdrbQEttrTNMAJlJHyG23",
+      "lastUpdate": "2025-02-24T21:28:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "OlMgCBPcQXfVI5K9FH2wTn1LErR2",
+      "lastUpdate": "2025-02-24T21:28:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "SUzQGldBQ2OnTID9p1LODdLqdwe2",
+      "lastUpdate": "2025-02-24T21:28:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "R2eZ4m2fSnhvcWLImj4GsmrQceq2",
+      "lastUpdate": "2025-02-24T21:28:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "UFmG46NaBrfSIzquB2wsQaejUCp2",
+      "lastUpdate": "2025-02-24T21:28:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "TrF1HSsDWrdqSqfWfp13IivDWIs1",
+      "lastUpdate": "2025-02-24T21:28:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "XI6U0IaaQSMb0xW3eSCS2iJnSqs1",
+      "lastUpdate": "2025-02-24T21:28:54+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "YZnFKwhXJqVozYAo2C1AjCdmyfk2",
+      "lastUpdate": "2025-02-24T21:28:54+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "aRX8xXoqovQybZCqHuxvuXhvBwv2",
+      "lastUpdate": "2025-02-24T21:28:57+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "YoDTbqUAJVX1aiyJhutJEDs2RjJ2",
+      "lastUpdate": "2025-02-24T21:28:57+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "cWpZZrvyYkXXBNduLVcmmgkszxj2",
+      "lastUpdate": "2025-02-24T21:29:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "bVWmKYQspwXPSvxUSmxWFDj29Y52",
+      "lastUpdate": "2025-02-24T21:29:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "f4GH5Om2SXc9E7P8J2fwTjUMWAc2",
+      "lastUpdate": "2025-02-24T21:29:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "dAqdQNWXeFMZkNqoWTJ3Kc4DiPw1",
+      "lastUpdate": "2025-02-24T21:29:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "h7So04C8pnd9nOxUN7VNPnJzrRU2",
+      "lastUpdate": "2025-02-24T21:29:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "fM2KSok4TPNL657AvDklec5rtXp2",
+      "lastUpdate": "2025-02-24T21:29:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "kh9fApMSmufmMNRXpA9LLyca8Qk2",
+      "lastUpdate": "2025-02-24T21:29:11+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "m0eRTu7cK7eD86dxyG4NLPsue5J3",
+      "lastUpdate": "2025-02-24T21:29:11+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "qCJwbgacZcgJiKCSLrGGySmnNz72",
+      "lastUpdate": "2025-02-24T21:29:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "pyRoSKuEn1T3etT7POJsty4haDa2",
+      "lastUpdate": "2025-02-24T21:29:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "s5RO0ZiSRBWaT6hcj5UT0GooQ6p1",
+      "lastUpdate": "2025-02-24T21:29:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "rsBMJreG8wdHmKZPtjLZPFLNJ963",
+      "lastUpdate": "2025-02-24T21:29:19+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "tS6M7gTxCkPKCTVLeI7HohTCfPg1",
+      "lastUpdate": "2025-02-24T21:29:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "tYXstDme0meTgkQYF1tdFtZR0ft1",
+      "lastUpdate": "2025-02-24T21:29:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "uKmg6prqpyXKxCWQd8u4zon3zrV2",
+      "lastUpdate": "2025-02-24T21:29:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "u0kF3X28zIaERuyLNYahmj57mil2",
+      "lastUpdate": "2025-02-24T21:29:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "vj9eQ4cjs2NhylI52CBephIMNtp1",
+      "lastUpdate": "2025-02-24T21:29:30+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "ux0hFs6DvYV5s3YAjj0Qxy7uAbm2",
+      "lastUpdate": "2025-02-24T21:29:30+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "xssP68l4iobd9hjVVzcClxdi3xE2",
+      "lastUpdate": "2025-02-24T21:29:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "wGTSqvhjypPUk3XwQzwvnsSr8dD2",
+      "lastUpdate": "2025-02-24T21:29:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "AZ"
+    },
+    {
+      "fbUid": "2oEwM7mUFkVEK4wzlxYj9C2jIXx2",
+      "lastUpdate": "2025-02-24T21:29:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "1aX7MGjut6SGK4pw4XRzfyCHv1z2",
+      "lastUpdate": "2025-02-24T21:29:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "65poYQUq5pU8KkV5BzVYmp0LlIv2",
+      "lastUpdate": "2025-02-24T21:29:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "4IJwGvRcdjM9EmHpuu2WXEmhRqN2",
+      "lastUpdate": "2025-02-24T21:29:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "7QRkNRMj2HfPYycw1UfRcXRKCTp1",
+      "lastUpdate": "2025-02-24T21:29:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "78CWrZQ6k6SgeGwbPtB40kmqipI2",
+      "lastUpdate": "2025-02-24T21:29:48+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "A2cpy6jmf5ZoUqtFRQav2w5xiuD2",
+      "lastUpdate": "2025-02-24T21:29:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "9v3jKBWXAETepm7nHIOn8Ksc6W83",
+      "lastUpdate": "2025-02-24T21:29:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "EV62xz1tP9UVk7fbmaWIOFFTJF72",
+      "lastUpdate": "2025-02-24T21:29:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "EFoiE3xUbBY4nQVowSrpfpT7BxC2",
+      "lastUpdate": "2025-02-24T21:29:57+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "GRi4LUZq7zd6gGuQxnXnA21B9vo2",
+      "lastUpdate": "2025-02-24T21:30:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "Fv9oFg63MrRIPh7sYLeV8NcBb8F3",
+      "lastUpdate": "2025-02-24T21:30:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "JbsCIRss6AhzFDfH3jsa6k05YBo2",
+      "lastUpdate": "2025-02-24T21:30:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "HP9X1IFD3qfTXhEfr9bSBBzOFfk2",
+      "lastUpdate": "2025-02-24T21:30:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "KV5O5yJ0jtcXy0feBBpNyKxrsZ23",
+      "lastUpdate": "2025-02-24T21:30:10+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "MyOBhEaUzceK7qMVQnswuCBzCo93",
+      "lastUpdate": "2025-02-24T21:30:11+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "NVl787aEAKMZBvyjHtPSlHxHmK33",
+      "lastUpdate": "2025-02-24T21:30:15+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "Nw3Nvb2RITYvM5AJdjfj3jMJ2yq1",
+      "lastUpdate": "2025-02-24T21:30:15+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "R4KVBGINIbV2geLhFv5CuIA12E62",
+      "lastUpdate": "2025-02-24T21:30:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "QJJpee496BhfCBAhpVPAk3eBPve2",
+      "lastUpdate": "2025-02-24T21:30:19+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "SYFnHbPie0a3YxxwiLWiOmsZkMH2",
+      "lastUpdate": "2025-02-24T21:30:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "RflHabB8VDYRJ2NmN9dehMDoV9f1",
+      "lastUpdate": "2025-02-24T21:30:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "X8Ls1D5eepaHqvRZpjGfJQUSMED3",
+      "lastUpdate": "2025-02-24T21:30:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "TBTBGWMYLdQXKJSTdN5IcINvL0n2",
+      "lastUpdate": "2025-02-24T21:30:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "cPHKnxezKGSguxzsBpC04aZSLWf2",
+      "lastUpdate": "2025-02-24T21:30:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "aeG2ZFYVraXym93mO90v1Yb2XmA3",
+      "lastUpdate": "2025-02-24T21:30:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "fPyVdjC1ejS3lpJSw6zmUqUiSrg1",
+      "lastUpdate": "2025-02-24T21:30:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "e7K1PE2MoiXWS2yt9B51bkAf8993",
+      "lastUpdate": "2025-02-24T21:30:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "h52MLSP44EQYhKx8TtPklLWLlNC3",
+      "lastUpdate": "2025-02-24T21:30:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "g8N3OHbxuSM86JcewUL9WoBAq982",
+      "lastUpdate": "2025-02-24T21:30:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "hxmyUvfWJIb4McPWZovn6AZlaqt2",
+      "lastUpdate": "2025-02-24T21:30:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "hCitOyRyAAT6DcIY5sHVE4Nvwxt2",
+      "lastUpdate": "2025-02-24T21:30:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "jyL9ZHCQqsc0ijf3IXq8W96pPOo1",
+      "lastUpdate": "2025-02-24T21:30:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "k8qnhn9o94NC1rgpeAIhPJdGvui1",
+      "lastUpdate": "2025-02-24T21:30:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "meUnfEMr2YTOfnEZQSTHneWoATh2",
+      "lastUpdate": "2025-02-24T21:30:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "k9JaULz9CvgEvzudaPX5b3x7eF82",
+      "lastUpdate": "2025-02-24T21:30:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "rXIYVrX5feUyHoNveRnIABYW8C72",
+      "lastUpdate": "2025-02-24T21:30:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "rOSjbaCIieZTdBwzdrC0A8rctxL2",
+      "lastUpdate": "2025-02-24T21:30:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "txxgaNtoj2fUvC8hxSMYkkRHom03",
+      "lastUpdate": "2025-02-24T21:31:01+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "tLIbE8NXn1ZtA6WkWwQtCZmEdf13",
+      "lastUpdate": "2025-02-24T21:31:01+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "uo5rQKoWpTgsB1BX7bwWQiunhCa2",
+      "lastUpdate": "2025-02-24T21:31:05+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "uiKt59TaIcMhtiCmOGrKWRCH1kt2",
+      "lastUpdate": "2025-02-24T21:31:05+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "xG2ecnlSEobkiCve9ogt2BS1Hgd2",
+      "lastUpdate": "2025-02-24T21:31:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "vMviAB9hVqOJO7QFPBzXGnCsnzi2",
+      "lastUpdate": "2025-02-24T21:31:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "yWn93T9bePVJdtioCKtAGKuFkpn1",
+      "lastUpdate": "2025-02-24T21:31:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BR"
+    },
+    {
+      "fbUid": "Qz6ozmDBAtMMLoT15TnyKEeXkav1",
+      "lastUpdate": "2025-02-24T21:31:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "BY"
+    },
+    {
+      "fbUid": "0sgOiZSsALdkazEIquJLx2EBHy83",
+      "lastUpdate": "2025-02-24T21:31:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "zfx3fSZSdeVazApWxyVtLJiAjgW2",
+      "lastUpdate": "2025-02-24T21:31:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CL"
+    },
+    {
+      "fbUid": "27a9ufptwaP1LWnbDRIwPDqXqdj2",
+      "lastUpdate": "2025-02-24T21:31:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "1AyzEzZJmaSry8IrdX4qf7o5or52",
+      "lastUpdate": "2025-02-24T21:31:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "5eajK4BtFrgUuYDAF0FoYrJYf5j1",
+      "lastUpdate": "2025-02-24T21:31:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "4VGZZW0PEMUNihwZHdzbLTWQlCN2",
+      "lastUpdate": "2025-02-24T21:31:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "BOWmD8Ws42RL3d8MnJCWVTKc1hH2",
+      "lastUpdate": "2025-02-24T21:31:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "ABIKgOZc23b3epmMKJsrZIeptoa2",
+      "lastUpdate": "2025-02-24T21:31:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "CzJ5oQB0sAMVmuIcv0Nl6YhaZ562",
+      "lastUpdate": "2025-02-24T21:31:39+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "BpN8ugZowXNValDmAc4eCAsJRVd2",
+      "lastUpdate": "2025-02-24T21:31:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "F335wmFFVETWNEWDkZvlTXdWUVT2",
+      "lastUpdate": "2025-02-24T21:31:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "DyMlBprFLpZ8CcKaEJL6IarfV5J3",
+      "lastUpdate": "2025-02-24T21:31:45+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "GxJPRkQxOVUHGcBeUPwSR1PyufX2",
+      "lastUpdate": "2025-02-24T21:31:48+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "Gv2Lr2fCTke5XTHLCOPJxKsKm7t1",
+      "lastUpdate": "2025-02-24T21:31:48+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "IkG0VxvinqNrJeHAo7V1psXEyKF2",
+      "lastUpdate": "2025-02-24T21:31:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "IZRQRATz08WmhqRebgSXCjTxQe02",
+      "lastUpdate": "2025-02-24T21:31:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "N25ChzYeClbRuKpBp2VEWaZxfBy1",
+      "lastUpdate": "2025-02-24T21:31:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "KSGAwFcfsbgDOY4M3BpQLi8f7YO2",
+      "lastUpdate": "2025-02-24T21:31:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "SZ0aUCXz5HatjaLhg5uxVB6UJQH2",
+      "lastUpdate": "2025-02-24T21:31:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "P6iZ38lG7SXBhHkqW1M2ZAzCdis2",
+      "lastUpdate": "2025-02-24T21:32:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "TVeIYQYsP8bqw5qDgPn1VjSlEfH3",
+      "lastUpdate": "2025-02-24T21:32:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "TA9gmIklIGNooILHw4KBHsyrqSH2",
+      "lastUpdate": "2025-02-24T21:32:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "TntMoinqp6fJkD5AUphl1HnZTSL2",
+      "lastUpdate": "2025-02-24T21:32:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "UsAIbUy9mxPLHVwH3Yh9sx5dQgc2",
+      "lastUpdate": "2025-02-24T21:32:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "WMUDqNGMhuZ0RDLWusV6EenctGQ2",
+      "lastUpdate": "2025-02-24T21:32:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "VYPpk0VCMDVtf5BNcif2SrxFPt92",
+      "lastUpdate": "2025-02-24T21:32:15+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "YPusc0BgK5eDYlThaJgHS1NxLTx1",
+      "lastUpdate": "2025-02-24T21:32:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "Xz2gqKEGg1PsZkTntTeFlBmb5dy1",
+      "lastUpdate": "2025-02-24T21:32:19+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "aHcZo4VIg0UhgRlAkKp4HxDNXPj1",
+      "lastUpdate": "2025-02-24T21:32:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "a4zIEbELBqethtnaA2hBXDmas5v1",
+      "lastUpdate": "2025-02-24T21:32:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "b9IuSgWC0aPRC4NvIBhb0HvcZAo2",
+      "lastUpdate": "2025-02-24T21:32:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "aTaMhI8cgXTumbmkJTrLjH0UtFA3",
+      "lastUpdate": "2025-02-24T21:32:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "cxHlkMnzA2dZkKoSfkyjuVGxhje2",
+      "lastUpdate": "2025-02-24T21:32:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "bec12BDWgyTU2PZiz0BYVE0ZP0N2",
+      "lastUpdate": "2025-02-24T21:32:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "ed5YsV5PGlh1RoUVM9qamIaJl4B3",
+      "lastUpdate": "2025-02-24T21:32:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "dbRjRFaTqkWm7CQWDcJdbHQKHk03",
+      "lastUpdate": "2025-02-24T21:32:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "ittBNHW9ybTqxHlOAdbrYsKNABN2",
+      "lastUpdate": "2025-02-24T21:32:39+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "h2LxHATeJkM1q4tHVqihsJR6rrK2",
+      "lastUpdate": "2025-02-24T21:32:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "pzUtKAkhYCRnZlASXJpramEMd6j2",
+      "lastUpdate": "2025-02-24T21:32:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "joq1HY2UrYZytK9FjqnARSd8zB93",
+      "lastUpdate": "2025-02-24T21:32:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "qFuHkGonTdUTJJ0SRLgf6yjObZV2",
+      "lastUpdate": "2025-02-24T21:32:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "q1G233zbHPR13HAVPiQzD694ME63",
+      "lastUpdate": "2025-02-24T21:32:54+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "uJl3xFgNQjahOifwN5CTTqgtrhv1",
+      "lastUpdate": "2025-02-24T21:32:57+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "rz4xpC5NSXh41vpjYrLyZpth8Wh1",
+      "lastUpdate": "2025-02-24T21:32:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "y1IFJ2IaGwdpdQmQ7WqVGqrPLZU2",
+      "lastUpdate": "2025-02-24T21:33:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "xP4cVMDgjqP0ES0wXnTATuawqWu2",
+      "lastUpdate": "2025-02-24T21:33:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "zXPZReNzqkUM1kOwajZLj3LowTc2",
+      "lastUpdate": "2025-02-24T21:33:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "zHzv4JNFbiaWSpz00DXYRayPjyy1",
+      "lastUpdate": "2025-02-24T21:33:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "zkRJ6gyAXCZYeXqgGghNnPsr8dh1",
+      "lastUpdate": "2025-02-24T21:33:11+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "zbFZ7DrlWDas9e9aLfFIQrpLPmk2",
+      "lastUpdate": "2025-02-24T21:33:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CO"
+    },
+    {
+      "fbUid": "TLVrzzCa4RaIcd8lrOrvnXFKTsL2",
+      "lastUpdate": "2025-02-24T21:33:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "DE"
+    },
+    {
+      "fbUid": "OX1d9kEe5oTDDU9StolGm4Bx7f13",
+      "lastUpdate": "2025-02-24T21:33:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "CZ"
+    },
+    {
+      "fbUid": "cCcKQWTQVSWi3X11NbxVM7FEeQi2",
+      "lastUpdate": "2025-02-24T21:33:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "DO"
+    },
+    {
+      "fbUid": "JcUC0fbAIyXNRG4CQMtQgGhiYmw2",
+      "lastUpdate": "2025-02-24T21:33:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "DK"
+    },
+    {
+      "fbUid": "kkNACg4y7oeZsBttkKQ7TGtkv422",
+      "lastUpdate": "2025-02-24T21:33:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "ES"
+    },
+    {
+      "fbUid": "PPwPLaduoTd4eHM0ANpjkLVs1a83",
+      "lastUpdate": "2025-02-24T21:33:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "ES"
+    },
+    {
+      "fbUid": "GdVJwaT19tffQaFhZNi2XeirwNU2",
+      "lastUpdate": "2025-02-24T21:33:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "GB"
+    },
+    {
+      "fbUid": "AsyhGW7PzEcs1CnuMeYkqu22d942",
+      "lastUpdate": "2025-02-24T21:33:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "FR"
+    },
+    {
+      "fbUid": "JWUCKCBx2PZiGdfLfHgpKH6raY03",
+      "lastUpdate": "2025-02-24T21:33:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "HU"
+    },
+    {
+      "fbUid": "UA884Hp3U2eOB25dVCkWjudHoVr2",
+      "lastUpdate": "2025-02-24T21:33:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "GB"
+    },
+    {
+      "fbUid": "2lWYjiLuqoZMKTlwqV4MSaDFPOJ3",
+      "lastUpdate": "2025-02-24T21:33:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "0UUb2n9EnIRhys3O5yuClg5tsTH3",
+      "lastUpdate": "2025-02-24T21:33:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "LCf2WRFHnyMVxX08tIoaBTZHgwA2",
+      "lastUpdate": "2025-02-24T21:33:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "CvzxOmKs2ZZKCF9i9rXPdKF9yeh2",
+      "lastUpdate": "2025-02-24T21:33:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "TBJxsqU6YXZ9T7Nuhfdh4R6avn82",
+      "lastUpdate": "2025-02-24T21:33:45+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "MAybt3UL4ncwy7rSt5BR0sjJdZu1",
+      "lastUpdate": "2025-02-24T21:33:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "WZVjvqAT35Rglbi8zwXmPEim7Io2",
+      "lastUpdate": "2025-02-24T21:33:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "V6ZyvmIlMIU4AXbm9s48uMIpf563",
+      "lastUpdate": "2025-02-24T21:33:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "adonht1KNwRvWzgfKYGo9qrjbtJ3",
+      "lastUpdate": "2025-02-24T21:33:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "XQwzo7RF39NBrMANTwrtSOQBhxn1",
+      "lastUpdate": "2025-02-24T21:33:54+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "dRMaCNK508aAQXpEsEVRLBO1evH2",
+      "lastUpdate": "2025-02-24T21:33:57+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "bTTJbrppT2Y3yJE1pH2gvTkcdU23",
+      "lastUpdate": "2025-02-24T21:33:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "gC8fN6HwclNmuh5YpGUQD7E5ePI3",
+      "lastUpdate": "2025-02-24T21:34:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "fsVNGqeG1CcWjudIhLsLPGkyx1E3",
+      "lastUpdate": "2025-02-24T21:34:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "njhe12keVqa8jDxpQWxMG5IqnUC2",
+      "lastUpdate": "2025-02-24T21:34:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "iVQKBCDIKkPehmfxIgVvqKfJ5N32",
+      "lastUpdate": "2025-02-24T21:34:10+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "p9DZiRZMTGc8rwF8eZ9MbZ9CsNH2",
+      "lastUpdate": "2025-02-24T21:34:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "oI8JuRI5YphpPGHJkZrRYmxabU13",
+      "lastUpdate": "2025-02-24T21:34:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "y1c8kiJhqEW1NChYVHNukmNQ8342",
+      "lastUpdate": "2025-02-24T21:34:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "u1o1FFbLKgarByboQxsvZpmUrnK2",
+      "lastUpdate": "2025-02-24T21:34:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "IN"
+    },
+    {
+      "fbUid": "3VDD9KYdn1V5EwtT1yulX3rgDmA3",
+      "lastUpdate": "2025-02-24T21:34:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "4CZEzHvYzghhsSJfmzLdgJ5SR3g1",
+      "lastUpdate": "2025-02-24T21:34:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "A6JCBmVNXVev30HEYPqeJZbMpQ63",
+      "lastUpdate": "2025-02-24T21:34:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "8b8rqH4E8VWMn3yVWs7LFNAtpKn2",
+      "lastUpdate": "2025-02-24T21:34:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "GenEyzjEFrNOjOWZJBUa28XLNDl2",
+      "lastUpdate": "2025-02-24T21:34:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "BjwIUcG9qVhjUHQ79RMFrPB0pxY2",
+      "lastUpdate": "2025-02-24T21:34:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "HxpQsxfYSvYZLZmPj6MGBdcdS8N2",
+      "lastUpdate": "2025-02-24T21:34:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "JErEpbUhFnOOEwuYdGCocD6dCVq1",
+      "lastUpdate": "2025-02-24T21:34:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "Rx79FGhpKnZMdinwq3BW9ZXy5602",
+      "lastUpdate": "2025-02-24T21:34:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "RvvyrET7EFdWoc7B1a7HW0AtuGr1",
+      "lastUpdate": "2025-02-24T21:34:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "T6G6OwUpINUZ7ruBgHbATQwgT8a2",
+      "lastUpdate": "2025-02-24T21:34:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "SWZMSmVLTrYQn7krDSctjjZ7Qbp1",
+      "lastUpdate": "2025-02-24T21:34:44+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "UUHwXzhblaVPQcr8Kxszv3Qqyq32",
+      "lastUpdate": "2025-02-24T21:34:48+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "TVmF5rqPCdVtq4cHklr8snvx1Pw2",
+      "lastUpdate": "2025-02-24T21:34:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "b21G0lWcwLbBGGCEjAnBPM9wBfr1",
+      "lastUpdate": "2025-02-24T21:34:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "WUvypmJ4Ofhc1ef6ks3n2znj67v1",
+      "lastUpdate": "2025-02-24T21:34:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "kFw03EueGbVhtj5gRURQgo8F4T52",
+      "lastUpdate": "2025-02-24T21:34:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "ccro49Dwp7dIbOfvyq56UzzHiqY2",
+      "lastUpdate": "2025-02-24T21:34:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "u8geIhDiQPangzPeA8jeEva15J73",
+      "lastUpdate": "2025-02-24T21:34:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "lxqzzisNmPhiAS25JlLQ7eq5M2J2",
+      "lastUpdate": "2025-02-24T21:34:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "ywaMReqUVHXrU1pCx6aaZvpi6o43",
+      "lastUpdate": "2025-02-24T21:35:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "yEGmxsgLNVdgyD9fHZdajBJ70Of2",
+      "lastUpdate": "2025-02-24T21:35:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MA"
+    },
+    {
+      "fbUid": "6QngEmBGwsVXntKGHqU4QN8qM1F3",
+      "lastUpdate": "2025-02-24T21:35:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MX"
+    },
+    {
+      "fbUid": "NvA0WqMZg3d8VERTxR1DlxIWJwJ2",
+      "lastUpdate": "2025-02-24T21:35:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "MZ"
+    },
+    {
+      "fbUid": "JOLLrdcxgSgdfMZP5v6nm4srAKH2",
+      "lastUpdate": "2025-02-24T21:35:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "NG"
+    },
+    {
+      "fbUid": "IBhNezLi34SQ2leoPDLSW4SG2kx2",
+      "lastUpdate": "2025-02-24T21:35:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "NG"
+    },
+    {
+      "fbUid": "MeMsaS6bhVaiu5NUWNtl8r6huQI2",
+      "lastUpdate": "2025-02-24T21:35:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "NG"
+    },
+    {
+      "fbUid": "Q8KeSiQz82UK0kbpnG9J28XsuUA3",
+      "lastUpdate": "2025-02-24T21:35:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "NG"
+    },
+    {
+      "fbUid": "UF1WuKNCe4WwJCwN2Md2ATTF9Tn2",
+      "lastUpdate": "2025-02-24T21:35:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "NG"
+    },
+    {
+      "fbUid": "STowa2hLSgY9LkYmPDYUVbROLI03",
+      "lastUpdate": "2025-02-24T21:35:19+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "NG"
+    },
+    {
+      "fbUid": "e58qeLP68iPEYtOXTZHytZGj4nM2",
+      "lastUpdate": "2025-02-24T21:35:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "NG"
+    },
+    {
+      "fbUid": "Zd2zLg1Hp7ZUV7wPkZCIJCKGY532",
+      "lastUpdate": "2025-02-24T21:35:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "NG"
+    },
+    {
+      "fbUid": "FdXAJgQyVPgqUclA0HZBorOYvxo1",
+      "lastUpdate": "2025-02-24T21:35:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "PL"
+    },
+    {
+      "fbUid": "yS5Ein70V8fCn5W7FsmNrV8l0V82",
+      "lastUpdate": "2025-02-24T21:35:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "PE"
+    },
+    {
+      "fbUid": "DUwMMgLuJ6Qc3bLLvHW9rJEqZvh1",
+      "lastUpdate": "2025-02-24T21:35:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "RU"
+    },
+    {
+      "fbUid": "2XRTvqoxIVSj5lJKXvOEd6hRW7A2",
+      "lastUpdate": "2025-02-24T21:35:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "RU"
+    },
+    {
+      "fbUid": "0Yr9FAuFXtQKCehpUs1UMEg2qwy1",
+      "lastUpdate": "2025-02-24T21:35:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "SG"
+    },
+    {
+      "fbUid": "VPcQjukxI1cEgLfrje80ejBN7c22",
+      "lastUpdate": "2025-02-24T21:35:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "RU"
+    },
+    {
+      "fbUid": "7h3dOhhjIFUepj1xMHiAzDW1nqq1",
+      "lastUpdate": "2025-02-24T21:35:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TH"
+    },
+    {
+      "fbUid": "XtpEsh3FqHSiFxsh476MGdxv4ZD3",
+      "lastUpdate": "2025-02-24T21:35:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "SY"
+    },
+    {
+      "fbUid": "0APZwITDpXPg9fgIlXJfv69LjUC3",
+      "lastUpdate": "2025-02-24T21:35:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "0AH8U8GPBrP94QWVnQLctKSH14M2",
+      "lastUpdate": "2025-02-24T21:35:44+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "0bfjWS48y6gJsrSUy1HMxBw64H82",
+      "lastUpdate": "2025-02-24T21:35:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "0mLtVMdt8OSTyG9SzNM9ZwRcgK92",
+      "lastUpdate": "2025-02-24T21:35:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "1WsKz1yOqyfcChQ0jNSS7s6VWq63",
+      "lastUpdate": "2025-02-24T21:35:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "27FOxwmHE0SBObP5ZDRyFoy89rz2",
+      "lastUpdate": "2025-02-24T21:35:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "2huTixG0Y7NQiKjc8mX5Pq0QngF2",
+      "lastUpdate": "2025-02-24T21:35:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "2RfjjBpbkYfPvCQCtFMnHlKXgTe2",
+      "lastUpdate": "2025-02-24T21:35:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "3nFc9dpOGdefSAgWxvbxX6sCcHn2",
+      "lastUpdate": "2025-02-24T21:36:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "2ocmad3EfARwzYa1u8oqYYrRVgx2",
+      "lastUpdate": "2025-02-24T21:36:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "4nraTHGfZtR4WfhUSXkkr8ZPciD3",
+      "lastUpdate": "2025-02-24T21:36:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "3xo5EJEbwLWMuE8DXdRkYB9Stq52",
+      "lastUpdate": "2025-02-24T21:36:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "5Cr4DAgt8peplRgBUsSLmMJoPRp2",
+      "lastUpdate": "2025-02-24T21:36:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "5E2dzpysjTfe5vbk7loSB6siLNh1",
+      "lastUpdate": "2025-02-24T21:36:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "5tjREjomXtdo93KPiqwbwgEEQAk2",
+      "lastUpdate": "2025-02-24T21:36:11+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "5p2nl2VL6UPEusjqHGzUmiKWEhx2",
+      "lastUpdate": "2025-02-24T21:36:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "6Gu4ZMhEyeXD3RrGb1KqSpL0ASE2",
+      "lastUpdate": "2025-02-24T21:36:15+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "62P7FBTl5fV3bt26Pcrhnb2Q4ul2",
+      "lastUpdate": "2025-02-24T21:36:15+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "6Ka3harlBDZN1yct2jBeeN03DY23",
+      "lastUpdate": "2025-02-24T21:36:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "6HOFTum3SZNbCh7WSpePnAs1Lq32",
+      "lastUpdate": "2025-02-24T21:36:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "7D7M2p07kQQU1KeSuAzmwP4N0Ou1",
+      "lastUpdate": "2025-02-24T21:36:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "6TnHxql7RBRlloaYPx0heWiP5Rr2",
+      "lastUpdate": "2025-02-24T21:36:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "8NzASKWP9ZPv4By9lW5EPA2wD7N2",
+      "lastUpdate": "2025-02-24T21:36:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "7wnITbQxrEci3S13lPK8IvfMp5I3",
+      "lastUpdate": "2025-02-24T21:36:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "AJiRxDR3WaeZ675uMMLzrcwZD1O2",
+      "lastUpdate": "2025-02-24T21:36:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "A8H5m1iOrFOprQF5psFy7g4YdAm2",
+      "lastUpdate": "2025-02-24T21:36:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ArfKOdlppwOL7x1rlGDGUlqydy23",
+      "lastUpdate": "2025-02-24T21:36:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "AKqYeHwOITRLJSyR7ZutMdEuDoh1",
+      "lastUpdate": "2025-02-24T21:36:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "B0zDAnvXf1a1ADtqbsp2bDUfAPo1",
+      "lastUpdate": "2025-02-24T21:36:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "2",
+      "country": "TR"
+    },
+    {
+      "fbUid": "B0wRO9TCyNh7O5HtFRmmBcJuyvf1",
+      "lastUpdate": "2025-02-24T21:36:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "BKuOKCwSoUhg5slhu0lZYvAS1Mr1",
+      "lastUpdate": "2025-02-24T21:36:39+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "BJwryW7ujzWTpEDS7ggo2GZurCo2",
+      "lastUpdate": "2025-02-24T21:36:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "BRep7fxXFvcY1FsRPWvOd5wfpp93",
+      "lastUpdate": "2025-02-24T21:36:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "BLanXjKYpLPEnvGV5R0UDyq1HLJ3",
+      "lastUpdate": "2025-02-24T21:36:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "BfUmrMUYzNVvKLOPI1HnvGaZvwg1",
+      "lastUpdate": "2025-02-24T21:36:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Buy1O3ty47bT8G9RXyVapbLYcnZ2",
+      "lastUpdate": "2025-02-24T21:36:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "CGRfsH4DQ7NFI3jzpQsS2W4XsM63",
+      "lastUpdate": "2025-02-24T21:36:51+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "C97ArkQNNhWLmS2JKFnCndIIA4t2",
+      "lastUpdate": "2025-02-24T21:36:51+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "CWT3mOgRlJcmIcUgu0LDfE6hULu2",
+      "lastUpdate": "2025-02-24T21:36:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "CXRchDY9i0eZeGQtrqx7RNL7s8R2",
+      "lastUpdate": "2025-02-24T21:36:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ClzRHSo6WHeTdOUPTq1qrGJKyZj2",
+      "lastUpdate": "2025-02-24T21:36:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "CcFateK6VAUJmHSeHrK5MbqwkAO2",
+      "lastUpdate": "2025-02-24T21:36:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "DFVLoUw4dbhZ2hs0cAsyuVh3zFu2",
+      "lastUpdate": "2025-02-24T21:37:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "DA4J6PS5JlhIijTBKc4r3XZXsol2",
+      "lastUpdate": "2025-02-24T21:37:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "DVBvwQNTUlOTyDBVhjTanwemzSn2",
+      "lastUpdate": "2025-02-24T21:37:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "DUR4tv8fQIY2cyXj2xF6mhQpivI3",
+      "lastUpdate": "2025-02-24T21:37:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Dsu3JmLYGXXuGyClx2OfUp7biJp1",
+      "lastUpdate": "2025-02-24T21:37:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "DW8dhlrX0WeumCvoNvvlDU8KDue2",
+      "lastUpdate": "2025-02-24T21:37:10+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "EOnGKUEESbPfYXOBJT0Ynb5T4ht1",
+      "lastUpdate": "2025-02-24T21:37:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "E0szJcgzcfgVoieMoybhrZeC0Gv2",
+      "lastUpdate": "2025-02-24T21:37:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "F2zuAt738VMdSIp3cyCBHF4GCA62",
+      "lastUpdate": "2025-02-24T21:37:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ER1CVT1zygO86VJDVVLNc5CJ8HF3",
+      "lastUpdate": "2025-02-24T21:37:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "FH82BgWX1bVzBHgwQ8bRow0y6hS2",
+      "lastUpdate": "2025-02-24T21:37:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "FhAEh1wptnTjTNu88IH8MHkoy012",
+      "lastUpdate": "2025-02-24T21:37:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "GADiNZooREbTvudcGQQ6pYOEQ6A3",
+      "lastUpdate": "2025-02-24T21:37:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "FpB3bE5soSUOVlWkxD5Adp7y5Zw1",
+      "lastUpdate": "2025-02-24T21:37:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "GbhoR2kel0fcJQJ4R15PpsEcGnP2",
+      "lastUpdate": "2025-02-24T21:37:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "GF1brAD1nddMVGEPe4pvIVX8AV23",
+      "lastUpdate": "2025-02-24T21:37:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "GsVMCUaqopcOS73tWK5jPlZNbPH3",
+      "lastUpdate": "2025-02-24T21:37:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "GjIGYlN9dhhFUchqxE9jq8UpmSw2",
+      "lastUpdate": "2025-02-24T21:37:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "H4E9lHJMirXWIzkGFGI0ih61sex1",
+      "lastUpdate": "2025-02-24T21:37:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "GtXZMnXIKOdmKft1ptUaI1Cvl0c2",
+      "lastUpdate": "2025-02-24T21:37:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "HNCLLoFFIZNkU4pqTJ0lJQGMKVw1",
+      "lastUpdate": "2025-02-24T21:37:39+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "HLKviqOOFDQQ7UfRqO63QHMImVP2",
+      "lastUpdate": "2025-02-24T21:37:39+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "HsMD9sxbEANsraVNWpZRss521Lf1",
+      "lastUpdate": "2025-02-24T21:37:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "HeSN2sy8Yydx7hLaYLCH5CZLnpR2",
+      "lastUpdate": "2025-02-24T21:37:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "IFoJzVJK96PpT045dHNpVU0KDtC2",
+      "lastUpdate": "2025-02-24T21:37:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Hw4693cxzaN91Z1XojpkXPb66nm2",
+      "lastUpdate": "2025-02-24T21:37:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "InaBsNjR8XTCfo1T7n0Nv3ayz862",
+      "lastUpdate": "2025-02-24T21:37:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "IYmtjOzhrMMXNOMhhMG7Fu85yL83",
+      "lastUpdate": "2025-02-24T21:37:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "J3I9fK4NR3YdfMQYRdQYasYzFZ43",
+      "lastUpdate": "2025-02-24T21:37:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ItJ9XTlpzxVCDNzHkdiHMcgUnOg1",
+      "lastUpdate": "2025-02-24T21:37:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "JBCria1yXjarnX1JLeXtuHyIcwi2",
+      "lastUpdate": "2025-02-24T21:37:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "J3Jy26v9tgNl3eqDCowH4ux0pal2",
+      "lastUpdate": "2025-02-24T21:38:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "JLNVtkJh48Z3UYZjO8HdlYscCiy2",
+      "lastUpdate": "2025-02-24T21:38:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "JEe0w1QtubcuwHej8FLUZXavN7z1",
+      "lastUpdate": "2025-02-24T21:38:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Jq0637SP78aboEUfw2tN8kC1ndG3",
+      "lastUpdate": "2025-02-24T21:38:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "JUXkbtIgDucJboQ9RuvdT74i8x72",
+      "lastUpdate": "2025-02-24T21:38:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "KyoP38NB3RWCfKCOTIVmtNkovvg1",
+      "lastUpdate": "2025-02-24T21:38:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "KsRNspojWsg4BSpO5R5T9mxvEaD3",
+      "lastUpdate": "2025-02-24T21:38:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "LE6qSgs4ZEUdwjNkOrN5EjI95gT2",
+      "lastUpdate": "2025-02-24T21:38:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "L7r3JfndvCSvi7Ar0i2Vb2XH9cy2",
+      "lastUpdate": "2025-02-24T21:38:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "LOZNgvT7K0fNtewKkk02ZxGiWfC2",
+      "lastUpdate": "2025-02-24T21:38:20+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "LM9JO2yuOXXgx5b7saBNZJB818o2",
+      "lastUpdate": "2025-02-24T21:38:20+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "LXSw2FK1F2d7QePKfDTC9nvBiqm1",
+      "lastUpdate": "2025-02-24T21:38:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "LWEKllikxDQaOfFMPZljhDQbB8q2",
+      "lastUpdate": "2025-02-24T21:38:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "LaHA7CKv26acQyuZwWjyMuxX22M2",
+      "lastUpdate": "2025-02-24T21:38:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "LY5qfPfnXrR8pdF5MMvFdbTghb32",
+      "lastUpdate": "2025-02-24T21:38:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Lwdt8TOkZeUz2PgJjdxgbVtziSH3",
+      "lastUpdate": "2025-02-24T21:38:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "LvP0HXplHESk7JROIWyZ5JHq6I53",
+      "lastUpdate": "2025-02-24T21:38:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "M1LjKElnthYhYtG1mrDbty20vLl1",
+      "lastUpdate": "2025-02-24T21:38:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Lxs1WHBtLybgKHnKQGWu9DrDiH03",
+      "lastUpdate": "2025-02-24T21:38:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "MNc2CjTMZsZdueti6d7ANHT4aAG2",
+      "lastUpdate": "2025-02-24T21:38:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "M37EX08gGKP9BEtg2AaZqWE6tci1",
+      "lastUpdate": "2025-02-24T21:38:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "N2utdrRCqhdGbs93JcrxrBryfES2",
+      "lastUpdate": "2025-02-24T21:38:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "MuUUOlnUVOeIpP4qD7dY67BdhLE3",
+      "lastUpdate": "2025-02-24T21:38:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "NUZpfVwq2RObfQd6EqRYKdz4xgY2",
+      "lastUpdate": "2025-02-24T21:38:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Nlg1PXDPeBNsGByBdF8WQHNJDDj1",
+      "lastUpdate": "2025-02-24T21:38:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "OfWAcRCLLufOtEhf33eMiV1zYCd2",
+      "lastUpdate": "2025-02-24T21:38:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "OB4ngtl9kgh3F7a5oTBOLPCVTMD3",
+      "lastUpdate": "2025-02-24T21:38:51+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "OpNuDJtnIQTglmdJ4PhQoIZrGVM2",
+      "lastUpdate": "2025-02-24T21:38:54+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Oo4FDdLF10hzeQwasrMql0tfoK22",
+      "lastUpdate": "2025-02-24T21:38:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "PJZqSvM5v1gVlOkGassYsE0v84o1",
+      "lastUpdate": "2025-02-24T21:39:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "P5C5aYhLrZgHO40Ih7DGfDQJCsx2",
+      "lastUpdate": "2025-02-24T21:39:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "PP2ZlPjFHye4yoKU6K3A495Ob6A2",
+      "lastUpdate": "2025-02-24T21:39:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "QLqKUxHtpRfx5GcaYxlbmeZXe122",
+      "lastUpdate": "2025-02-24T21:39:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Qjmh1HHsOMdoV54cS0AqiOspu263",
+      "lastUpdate": "2025-02-24T21:39:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "QPz0n36ubmQr0lsFa8yzp5jdWgt1",
+      "lastUpdate": "2025-02-24T21:39:11+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "RFLRnIOoWmSL0fxFMBBr5yumSbg2",
+      "lastUpdate": "2025-02-24T21:39:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "R33KvImZLOZm7H4CFgtficGn6su1",
+      "lastUpdate": "2025-02-24T21:39:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "RkmYW91jObdL5khdjf0l8Uz9VPf2",
+      "lastUpdate": "2025-02-24T21:39:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "RHSHNhs8BGcv5Hyyd7lO2XMANDH3",
+      "lastUpdate": "2025-02-24T21:39:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "SGNc9YpduWhu9TjiIvwByESMhlt1",
+      "lastUpdate": "2025-02-24T21:39:20+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "S2yIxae8OYabVwKDM2WduvArPIv2",
+      "lastUpdate": "2025-02-24T21:39:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "TA8i4pqFUVaKuKCMXvdpBdVdZ2J3",
+      "lastUpdate": "2025-02-24T21:39:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "SYFcP14h8gPHcFusjKJn4bfuI842",
+      "lastUpdate": "2025-02-24T21:39:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "TGkic1eVPfUG33PdbPJE4wA2vuH3",
+      "lastUpdate": "2025-02-24T21:39:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "TRIODonxrQPYCuRvG0u5iTDsRb12",
+      "lastUpdate": "2025-02-24T21:39:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "U7dRnQrgD1PqAeYPYgOwAMHr00U2",
+      "lastUpdate": "2025-02-24T21:39:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "U6Fe5uALEHgCX7uxftz6nG7H3ho2",
+      "lastUpdate": "2025-02-24T21:39:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "UE1n7sufKpgX6HuMhzKCZrzliJb2",
+      "lastUpdate": "2025-02-24T21:39:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "UFfuXIXcCLcmx3G2RgE9yU1J2zH3",
+      "lastUpdate": "2025-02-24T21:39:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "UYiesBvyiPUnJ8x8Nlf1LV7SQ3l2",
+      "lastUpdate": "2025-02-24T21:39:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "UXfEI2s0BqbVEGEROGfAnCi0No62",
+      "lastUpdate": "2025-02-24T21:39:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "UlB77K7wYHOjpHLHrNSckBHnNIY2",
+      "lastUpdate": "2025-02-24T21:39:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "UkUSrBV4CWgBfFvnNvi4tvDNfXI2",
+      "lastUpdate": "2025-02-24T21:39:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "V2ekInmlKveFkxQaUyQ1gSPxx3X2",
+      "lastUpdate": "2025-02-24T21:39:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Ulfc8gPVE3TThOmWM1CRDXUhWP33",
+      "lastUpdate": "2025-02-24T21:39:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "W6dhtp9hsuZHhu6GezcOczYxr1A2",
+      "lastUpdate": "2025-02-24T21:39:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "VXtCNJeRp2Yz7o6cM62qfMtnSpM2",
+      "lastUpdate": "2025-02-24T21:39:54+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "WJoyx7x3vuOZOnOqd7ulsqCgSrF3",
+      "lastUpdate": "2025-02-24T21:39:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "WHxvBdbhW1XHGShGsmLVhDBFSm93",
+      "lastUpdate": "2025-02-24T21:39:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "WvfhMBAzo6RCxXQZbqtdutG8zLw2",
+      "lastUpdate": "2025-02-24T21:40:01+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Wa5NWwV5T7XT7DC76AtDAnMTmns1",
+      "lastUpdate": "2025-02-24T21:40:01+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "XmfnDfVMryYU7i9zJnkabWr3kGw1",
+      "lastUpdate": "2025-02-24T21:40:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "XFB2eLK7SdhyY1SQID6hn2C9QmL2",
+      "lastUpdate": "2025-02-24T21:40:05+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Xx7oNSQeE2X4DO1nbTwg5p3nveg2",
+      "lastUpdate": "2025-02-24T21:40:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "XrRgaKok9lRJY30FNS5EnxcRdZ22",
+      "lastUpdate": "2025-02-24T21:40:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "YIBr9tSKFdTWKhDBARGHDfASSJX2",
+      "lastUpdate": "2025-02-24T21:40:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "XzedhhkWzwdOTLnRjRPIUVwoSlU2",
+      "lastUpdate": "2025-02-24T21:40:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Z1kw72rF2sN7J4hBRh7Z02ZLnEt2",
+      "lastUpdate": "2025-02-24T21:40:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "YsQQGxe3T1S97WN5dwdCVOrR4hR2",
+      "lastUpdate": "2025-02-24T21:40:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ZULh9A44A0SiKb0Alj2VLSClYwq2",
+      "lastUpdate": "2025-02-24T21:40:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ZPC4oMQGhOhhjB47h5zwXAGQGFC3",
+      "lastUpdate": "2025-02-24T21:40:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ZmxYr3eHX6P8Odqmv1Uy2HuWWzx2",
+      "lastUpdate": "2025-02-24T21:40:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "Zj6OKy72ppM6uhPOhv1tP3Hrbdf2",
+      "lastUpdate": "2025-02-24T21:40:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "a3htraI4kvedm0PpApR3mAQ7bTI3",
+      "lastUpdate": "2025-02-24T21:40:28+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "a0dIRzT31nbXqoRZZ9yRoIN7Ufx2",
+      "lastUpdate": "2025-02-24T21:40:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "alkS0MDWv1QFzDsE33bB6pYkSsu1",
+      "lastUpdate": "2025-02-24T21:40:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "aj6oQOAvTkVW88pFL23KPeJ2VY73",
+      "lastUpdate": "2025-02-24T21:40:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "auzrjbaK0BZz35xwpyKgecC2jk52",
+      "lastUpdate": "2025-02-24T21:40:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "arCzHerB8PR4DGPxHjmvFEAFFyH3",
+      "lastUpdate": "2025-02-24T21:40:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "bRHqok5ro3Rkob0jSvNT88KXTND3",
+      "lastUpdate": "2025-02-24T21:40:39+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "b4XgRFUanRb4VdXccH3ftCfk55h2",
+      "lastUpdate": "2025-02-24T21:40:39+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "cMcd4x9P1kcuN2TQ4jUNfGZE7Cz2",
+      "lastUpdate": "2025-02-24T21:40:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "cCaA8UAJC3YYujc5BcSdlOcbup43",
+      "lastUpdate": "2025-02-24T21:40:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "cRKzri5NUOhD7XwUMPOL5SPU0Dl1",
+      "lastUpdate": "2025-02-24T21:40:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "cN9qiZHyj6TZAREbjSQAUgDeDjB3",
+      "lastUpdate": "2025-02-24T21:40:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "clhBqTMmgbb7g1bym2qxUEgfiaM2",
+      "lastUpdate": "2025-02-24T21:40:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "cbiS6BR09sNkTu2K1L4OM9uSYUr1",
+      "lastUpdate": "2025-02-24T21:40:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "dKj8uvZJzFP143lwoZ32DlszZV63",
+      "lastUpdate": "2025-02-24T21:40:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "dCIL3olZLwZnUwgU4cAUwNTuaAi2",
+      "lastUpdate": "2025-02-24T21:40:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "e41gbGSTvjVtkzwRVAZOI5cRpes2",
+      "lastUpdate": "2025-02-24T21:40:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "daK5tATUEtUp4HCl4Azt9wPUSts1",
+      "lastUpdate": "2025-02-24T21:40:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "eJ6TLVS6PBhAb9fisdzuFi76kin1",
+      "lastUpdate": "2025-02-24T21:40:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "eD1EaeXGLQOBd8Kg6gjUYRBNDiy2",
+      "lastUpdate": "2025-02-24T21:40:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ecwmHk4WnKOd1ndBqat7g2yWesF3",
+      "lastUpdate": "2025-02-24T21:41:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "eaFgTzIIYpgEGs5HYGpTVwR0PBO2",
+      "lastUpdate": "2025-02-24T21:41:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "fDAxBUE9JvcKsS8Ttu3RmK8IeXc2",
+      "lastUpdate": "2025-02-24T21:41:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "evQXV4aUiBXnY3bVRLblwcP9j3O2",
+      "lastUpdate": "2025-02-24T21:41:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "g6rTaE95NygTYeFOyv76Bn8thFb2",
+      "lastUpdate": "2025-02-24T21:41:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "fRPc4FZHVRdNsBEuBC7VNOzK08v1",
+      "lastUpdate": "2025-02-24T21:41:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "gNuWZYw2iWWLOTo4o4M6xU64iVw2",
+      "lastUpdate": "2025-02-24T21:41:15+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "gNViGYZv3zUBAz4n9b5mnJkTJPS2",
+      "lastUpdate": "2025-02-24T21:41:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "gaxRJ02vCvPsS2rj469EoLCqrvb2",
+      "lastUpdate": "2025-02-24T21:41:19+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "gSiJ19bpakbT7H4BTvUH6w4B0GB2",
+      "lastUpdate": "2025-02-24T21:41:20+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "h1Z5XYj4U9SkcwoSrUbc1vQfwax2",
+      "lastUpdate": "2025-02-24T21:41:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "gdmPagcgIHM9GILBN863WRDEQDv2",
+      "lastUpdate": "2025-02-24T21:41:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "he4U1JUycFcsmInq7LUSNlSM0dg2",
+      "lastUpdate": "2025-02-24T21:41:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "hSES6Mg87yXBX9egfoODMuHX7a63",
+      "lastUpdate": "2025-02-24T21:41:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "iObjOx52j1gBA9Im4FYGbpq4kHO2",
+      "lastUpdate": "2025-02-24T21:41:30+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "i9h6ezgLh0N4VJKTn1dzSBLB2nv2",
+      "lastUpdate": "2025-02-24T21:41:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "in6c6HLCT2avQ5830TsSJ5MkGxf1",
+      "lastUpdate": "2025-02-24T21:41:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "in1v2czMMGWYt6NctOgJqw6Ijo82",
+      "lastUpdate": "2025-02-24T21:41:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ioXFJlizIeQ3x1KLSvkjTKaLZmI2",
+      "lastUpdate": "2025-02-24T21:41:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "inJRtpuFKVala385ntBI4Kn4fni2",
+      "lastUpdate": "2025-02-24T21:41:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "jHU6Lp9vJfeOIsSZ690WX7LMa5G2",
+      "lastUpdate": "2025-02-24T21:41:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "irU0Rbznjkh39IJfU9wGlB1eoG12",
+      "lastUpdate": "2025-02-24T21:41:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "jwIxi0d9OUdXT89maKUVtbkXrEY2",
+      "lastUpdate": "2025-02-24T21:41:44+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "jZuhmY5ZFldtxF7tIFfSMfKFPLz2",
+      "lastUpdate": "2025-02-24T21:41:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "k6ndPTEjRqUlFduMVWTtjkwN4lO2",
+      "lastUpdate": "2025-02-24T21:41:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "jxAxEmCzRuUrPPxlENR5VIvUzQy1",
+      "lastUpdate": "2025-02-24T21:41:49+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "kJL1prnxdJdwDLbZMb8tn7i1JJd2",
+      "lastUpdate": "2025-02-24T21:41:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "kL3OD1DvqeQ6myD69exL0rrYiPk1",
+      "lastUpdate": "2025-02-24T21:41:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "kYMeJI0tB2eWhCpCW6nt4Y2KPTv2",
+      "lastUpdate": "2025-02-24T21:41:57+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "kTIxUoleQhbUzJQltDEbe10FA2C2",
+      "lastUpdate": "2025-02-24T21:41:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "kt8o9tf0N7TvwrVBQJuJuIjFpuc2",
+      "lastUpdate": "2025-02-24T21:42:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "kkEhwF3xoagdkXWMo1Kad6r3py72",
+      "lastUpdate": "2025-02-24T21:42:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "loAiJPfTsyMkx7nQxxGWs0RStb52",
+      "lastUpdate": "2025-02-24T21:42:05+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "lZ3So4r6REQpNXWpL5TXQj7eNSl1",
+      "lastUpdate": "2025-02-24T21:42:05+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "mjoZLuiLH4avxYmBZjQJ7xpdkiJ3",
+      "lastUpdate": "2025-02-24T21:42:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "mLyBruFqQZhC22bHyzjxk9O9Q5u1",
+      "lastUpdate": "2025-02-24T21:42:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "nEa2nclDqVYYSgnllDSWLixr0ft2",
+      "lastUpdate": "2025-02-24T21:42:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "n0vwW1hpfdV0pkeU0vIn6UsK8SU2",
+      "lastUpdate": "2025-02-24T21:42:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "nMqGuPHaiIMkWZ7cZdpUAVrqqjl2",
+      "lastUpdate": "2025-02-24T21:42:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "nIQGl4nZMpZw6G6REUUPhxePCUx1",
+      "lastUpdate": "2025-02-24T21:42:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "nW6SAihufESEVs5JP3n0aNC44nA2",
+      "lastUpdate": "2025-02-24T21:42:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "nVqFcCT2SsUPuZhOXf9tvk0P3lL2",
+      "lastUpdate": "2025-02-24T21:42:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "oZn1NfsjIUdrrroDHmeWhNxZB1d2",
+      "lastUpdate": "2025-02-24T21:42:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ntqtCwBcPEWeLNo93WOyS35A7nq1",
+      "lastUpdate": "2025-02-24T21:42:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "otANrawomcYNCIDtVwHfR9zTGCk1",
+      "lastUpdate": "2025-02-24T21:42:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "odhBp1UFjpclBBePjbPtSFE7bcQ2",
+      "lastUpdate": "2025-02-24T21:42:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "pBSuSdNKgLfuFX4khaMJbr1tWl22",
+      "lastUpdate": "2025-02-24T21:42:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "p3gqxgItMEWnNxaSi5X6aGDySWx2",
+      "lastUpdate": "2025-02-24T21:42:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "pizzIjkBSEbHxvSDfL1gCASP9r23",
+      "lastUpdate": "2025-02-24T21:42:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "pD3dOFvI49gj0fOFJCcKiuza8KC3",
+      "lastUpdate": "2025-02-24T21:42:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "pnqSzZLlzIY2aJTAzDy6KA9fQx02",
+      "lastUpdate": "2025-02-24T21:42:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "pjEyXzlPzubkbgT8BUxr3hykUa13",
+      "lastUpdate": "2025-02-24T21:42:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "qF0EK3MNaXPZKk9NqvRR1bwcJoY2",
+      "lastUpdate": "2025-02-24T21:42:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "qC0JPxLG2BXkgoWdi0Nk1z2M1Av2",
+      "lastUpdate": "2025-02-24T21:42:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "qoRaKkz5aMMZxLSGHLebm7TkMi63",
+      "lastUpdate": "2025-02-24T21:42:45+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "qfs8dokvEwOSG91ly1wyPxiJnSU2",
+      "lastUpdate": "2025-02-24T21:42:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "rfZTgr0HiWV0bWtGn26w1Yz55D33",
+      "lastUpdate": "2025-02-24T21:42:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "qwHq0YucSpMXoyER2QsiqVpYqpt2",
+      "lastUpdate": "2025-02-24T21:42:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ri1GTUVfRwh34nUS89JBoqQgiC22",
+      "lastUpdate": "2025-02-24T21:42:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "rheoeuOoLHeNnBe9Z37dFe9vZar2",
+      "lastUpdate": "2025-02-24T21:42:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "sbBXLEOEEsTsXlzoHsZOgbkDfZY2",
+      "lastUpdate": "2025-02-24T21:42:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "sPa73Rxb2ZYxTsLM9HnVaHgzgtl2",
+      "lastUpdate": "2025-02-24T21:42:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "tjH6kkd9HjON8wkmy8Mstk1dUIt1",
+      "lastUpdate": "2025-02-24T21:42:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "tHTBL81gVhTjvOGdA1w5cYNXuSn2",
+      "lastUpdate": "2025-02-24T21:43:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ujIBsxrb05aem1VUNL3kEMPxS3u1",
+      "lastUpdate": "2025-02-24T21:43:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "uM0bTUkyaCZN2h5t97rR3l4WrhC3",
+      "lastUpdate": "2025-02-24T21:43:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "uvzBtl0NLPSQWaOC0Zl4vkZk5qu1",
+      "lastUpdate": "2025-02-24T21:43:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ukGFx4NDXWeKosYp7Zofy9E5Xms1",
+      "lastUpdate": "2025-02-24T21:43:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "vAk71XXVkNNHUE0nOHPysJvVdbv1",
+      "lastUpdate": "2025-02-24T21:43:11+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "v4soynFLanM6vye4ajCvuGfxAYR2",
+      "lastUpdate": "2025-02-24T21:43:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "vmMIJMHaMaPSgy7kpddCDooIaJv2",
+      "lastUpdate": "2025-02-24T21:43:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "vbuMTqVJPnUN6fTv8lGJGIf5S0p2",
+      "lastUpdate": "2025-02-24T21:43:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "wIsfGFGsGgWrGMuXtbWoptm11Er2",
+      "lastUpdate": "2025-02-24T21:43:20+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "w9avkCzIruers63f4RKfqVntuMF2",
+      "lastUpdate": "2025-02-24T21:43:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "wPwOnV85M2M4P8xrnIyI0CBtTD82",
+      "lastUpdate": "2025-02-24T21:43:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "wMT3ehJPGIOQm7W9QPeRw08IFxw2",
+      "lastUpdate": "2025-02-24T21:43:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "wYZ4PXtCyihpUcOEIkFeSDTYJp42",
+      "lastUpdate": "2025-02-24T21:43:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "wQNd0PYkdebpVLrOFdcq1txifZd2",
+      "lastUpdate": "2025-02-24T21:43:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "wsCEuYO9LwbuUOmefJvfzp1Pr5X2",
+      "lastUpdate": "2025-02-24T21:43:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "wcB4bZa6QRfPaXMwuI7qT1PxaVX2",
+      "lastUpdate": "2025-02-24T21:43:31+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "xMT6012FJWOs5ca8q0OBu3MtTrB3",
+      "lastUpdate": "2025-02-24T21:43:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "wvGeVsLP8kM9XPSBoGSlGaJFbzl1",
+      "lastUpdate": "2025-02-24T21:43:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "yPi1edSUzbWrDVkASY3P71AtRyP2",
+      "lastUpdate": "2025-02-24T21:43:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "y5YILSIWoodV8V0HVvea4va2Ved2",
+      "lastUpdate": "2025-02-24T21:43:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "z37QhP8DO7hS5FomTOQvXfAG3bO2",
+      "lastUpdate": "2025-02-24T21:43:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "ybsFqFGAMlSEgbJYhaGAM0DXvQP2",
+      "lastUpdate": "2025-02-24T21:43:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "zi1pJpTawtZm78ITu3xRXRRNAfi1",
+      "lastUpdate": "2025-02-24T21:43:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "zFM3s3l1oCWzcbeFCUjX3uykEEq1",
+      "lastUpdate": "2025-02-24T21:43:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "0sheyn58DoSi6ys4j1KP30x1WAB3",
+      "lastUpdate": "2025-02-24T21:43:51+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "znbOMle5UST77EA4ZmqD1Bd1xU23",
+      "lastUpdate": "2025-02-24T21:43:51+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "TR"
+    },
+    {
+      "fbUid": "JWZ9WVnaadbc5kPidXyOsSlINq43",
+      "lastUpdate": "2025-02-24T21:43:54+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "9rLLArfJemYXkye6HzlZ6SziYOD2",
+      "lastUpdate": "2025-02-24T21:43:54+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "RhGSKxJoCte2WVAQgwzERjqJrdP2",
+      "lastUpdate": "2025-02-24T21:43:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "RMcvWVNwCqQbSaPErO5kUgHkPmP2",
+      "lastUpdate": "2025-02-24T21:43:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "S1x5XwjFEeRke7eoVien4kWRUhf1",
+      "lastUpdate": "2025-02-24T21:44:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "SFmetH7S0xMzx7QIXbt11ubCoV62",
+      "lastUpdate": "2025-02-24T21:44:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "mL0BgyFIaCRpBO033JXm5Jo6ZW62",
+      "lastUpdate": "2025-02-24T21:44:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "gzoVj8CFLXRfm0NSgm2Yb25SoKm2",
+      "lastUpdate": "2025-02-24T21:44:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "BOA93K07XpMyud3Tj2VSL1APjws1",
+      "lastUpdate": "2025-02-24T21:44:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "US"
+    },
+    {
+      "fbUid": "vyiaHlJCkgYDv8Y9FZiF7FSLqVL2",
+      "lastUpdate": "2025-02-24T21:44:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "UA"
+    },
+    {
+      "fbUid": "0MuzG639jiPE0EPC8Hh8aSUVtqA2",
+      "lastUpdate": "2025-02-24T21:44:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "F8S1BTcw4KeK3yQnHG0d3QlbSu22",
+      "lastUpdate": "2025-02-24T21:44:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "US"
+    },
+    {
+      "fbUid": "0gTszDMpxTPGGxN40VavIAFS1ml1",
+      "lastUpdate": "2025-02-24T21:44:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "1PbDffDNXAaxNRWFjXIzGFNpYtL2",
+      "lastUpdate": "2025-02-24T21:44:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "21kJEFKwRsURo8G791yXkF72jHM2",
+      "lastUpdate": "2025-02-24T21:44:26+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "5VyKPd6ACYhDg21z3vzAw6tm5eC3",
+      "lastUpdate": "2025-02-24T21:44:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "8UjqnX7UMoMzjDJMDdTAwQ4huUw1",
+      "lastUpdate": "2025-02-24T21:44:30+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "7ZfjiHG6E2VPsgWwiymemlv8Pxn2",
+      "lastUpdate": "2025-02-24T21:44:30+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "CUPndEmlMwcCyR35yLKkXasdUIj2",
+      "lastUpdate": "2025-02-24T21:44:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "BAD68AwjUEXmA3POnTrUaYGAiGg1",
+      "lastUpdate": "2025-02-24T21:44:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "H9w9QNHqCTQ7aLcDEqxY81t1dvI2",
+      "lastUpdate": "2025-02-24T21:44:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "CUSQVygMV0QNu08UFln4es6wvCZ2",
+      "lastUpdate": "2025-02-24T21:44:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "IY76mrweFkVOkt1sWtbl1a6prAi1",
+      "lastUpdate": "2025-02-24T21:44:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "HqIOBAnVcvanaFnzugJiFCH34hr1",
+      "lastUpdate": "2025-02-24T21:44:48+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "JQH5Lw3cs9d2m1e76iQq4tMWuP83",
+      "lastUpdate": "2025-02-24T21:44:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "JUqLxS9fgchD3nqCqJET4c7pqU23",
+      "lastUpdate": "2025-02-24T21:44:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "JlEnkGCgZnda2omOmtclXmkRxG53",
+      "lastUpdate": "2025-02-24T21:44:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "JZdW2ldnlIclfxCXb2GGf7oJ9vh1",
+      "lastUpdate": "2025-02-24T21:44:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "O4H9aouM1sMXu4QKUPMHDh9k7e82",
+      "lastUpdate": "2025-02-24T21:45:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "NhD600RznhNJYrQaKJZxdCa0EMt1",
+      "lastUpdate": "2025-02-24T21:45:05+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "Ob05VVzHRyYWtnlmcZFzExkFdsD2",
+      "lastUpdate": "2025-02-24T21:45:09+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "P3soSiaHzcShCOzJB2NveXt7jdE2",
+      "lastUpdate": "2025-02-24T21:45:10+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "QcMy0histnN4sBPrpWt5GbRuSoh1",
+      "lastUpdate": "2025-02-24T21:45:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "PoEnAVUHZRTddO7UFbvxOGYVWAV2",
+      "lastUpdate": "2025-02-24T21:45:17+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "RyU8PZ4pZ6W5AbsufDQLy6GpdGC3",
+      "lastUpdate": "2025-02-24T21:45:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "QnPPwqzKIUQw6yHVGodyu15vFCm1",
+      "lastUpdate": "2025-02-24T21:45:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "VwyakvR6A2XnhFkB7gdUdeGGHVJ2",
+      "lastUpdate": "2025-02-24T21:45:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "UCx4B6EW7yPqbAKfSSugKGIxHq62",
+      "lastUpdate": "2025-02-24T21:45:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "XmqBOlQ6rLazbyJ843uNk61NQ5A3",
+      "lastUpdate": "2025-02-24T21:45:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "XmOxh0Dgm6aTxljfIdHHnMDcChJ3",
+      "lastUpdate": "2025-02-24T21:45:36+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "Yhthbv0h5MOjP9KsMtZUg8NhVtG3",
+      "lastUpdate": "2025-02-24T21:45:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "YtQg2suH1hMHiLBoCR9uqCSgLCi2",
+      "lastUpdate": "2025-02-24T21:45:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "ZHItaP33j4Oz9W8ZfEqkLZ5J6WB2",
+      "lastUpdate": "2025-02-24T21:45:45+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "Zosri5skY8YJNkcvKtNVYMsszpF2",
+      "lastUpdate": "2025-02-24T21:45:45+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "cYYQWqAep2bF8LKuxim34Wuz8WS2",
+      "lastUpdate": "2025-02-24T21:45:48+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "ahitOjq5QVaqyfBADUjslPySN7P2",
+      "lastUpdate": "2025-02-24T21:45:48+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "dsYIlicW3HXmBUyjPpi159aSR363",
+      "lastUpdate": "2025-02-24T21:45:53+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "d86efx9nEbgIiu6bIwDRmEyKDIj1",
+      "lastUpdate": "2025-02-24T21:45:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "gDRAjNNuHFa9oLyUesH28J1a6IP2",
+      "lastUpdate": "2025-02-24T21:46:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "dv1N9uI6nVgrXYLPsbEEUvAais22",
+      "lastUpdate": "2025-02-24T21:46:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "i7JD5kFqUggaXzX9Bc3bu0abr0e2",
+      "lastUpdate": "2025-02-24T21:46:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "goCm58Ym93ONQgryEANJqhYcs3n1",
+      "lastUpdate": "2025-02-24T21:46:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "jk59y4I6tVc0lU60RTKtM7JJVjH2",
+      "lastUpdate": "2025-02-24T21:46:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "jACCV5zAEdRdUIeRVYw1TyrlTvi2",
+      "lastUpdate": "2025-02-24T21:46:15+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "k4UMRrqAorfZsadmrYbhaTRMaIh1",
+      "lastUpdate": "2025-02-24T21:46:19+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "jpWpkRHrX2Os04felOIsBa2u6B02",
+      "lastUpdate": "2025-02-24T21:46:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "kJiAwh7KvXhE3VSQvQ0RTYW3ank1",
+      "lastUpdate": "2025-02-24T21:46:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "kCMvEZPqJrOQpOPco1j3jlqfMiJ3",
+      "lastUpdate": "2025-02-24T21:46:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "l8NomW6KPlVJsP09QPCfhBDFc8r1",
+      "lastUpdate": "2025-02-24T21:46:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "mPreWNoiSmRzMYnPwYiflcnf4VE3",
+      "lastUpdate": "2025-02-24T21:46:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "o6IGrz7rbOhZ7mLcFX6obSA6ejs2",
+      "lastUpdate": "2025-02-24T21:46:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "mnigJg1KY7RYggNLX85CLSE44NC2",
+      "lastUpdate": "2025-02-24T21:46:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "pTHGi2eIyqdsv3mm1eeA1jelB2p1",
+      "lastUpdate": "2025-02-24T21:46:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "pPU1oN46zKdHU7aRY8C4jirC5yJ2",
+      "lastUpdate": "2025-02-24T21:46:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "r4qFBhEMalZjgvBxOt3mJyiQewH2",
+      "lastUpdate": "2025-02-24T21:46:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "qpKN7wAYLyPVhmCiGcBKFK4Js9j1",
+      "lastUpdate": "2025-02-24T21:46:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "rGiBdjiOkpVrOd1kEpPVEZXENk42",
+      "lastUpdate": "2025-02-24T21:46:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "r6lTb4VbyiWL6l8tTN5DwUgb76a2",
+      "lastUpdate": "2025-02-24T21:46:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "sCGhncadvHazUSHOPLX6jR796mq2",
+      "lastUpdate": "2025-02-24T21:46:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "rHQg1NiKctcizm1Cah3t708rMNo1",
+      "lastUpdate": "2025-02-24T21:46:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "srulROHCCeRKv8pBRO6KgtOzyQu2",
+      "lastUpdate": "2025-02-24T21:46:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "stmDm77cg8Zfozaau29Rac6oGCv1",
+      "lastUpdate": "2025-02-24T21:46:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "zJNiRhcObZPKP1XsubvzxV5r0Bc2",
+      "lastUpdate": "2025-02-24T21:47:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "taelWs1NqKRofx3eBOGUy0pxNDr1",
+      "lastUpdate": "2025-02-24T21:47:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "0M0BbO1VgpUL99tHIXxHtxuFk182",
+      "lastUpdate": "2025-02-24T21:47:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "zXhLUunA3zTBiOniNSDru1Cxry62",
+      "lastUpdate": "2025-02-24T21:47:15+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VE"
+    },
+    {
+      "fbUid": "1AfLhQ28w7TEPFfLFnmvNb29ZZq1",
+      "lastUpdate": "2025-02-24T21:47:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "16Uez7QqZdYpQPJjlKOw2PrzKYv1",
+      "lastUpdate": "2025-02-24T21:47:20+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "1sKDAPERayN9r5gjnAVTKxAgAmf2",
+      "lastUpdate": "2025-02-24T21:47:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "1htJHxVHf7SdDwbu5tVfy8eeQZl1",
+      "lastUpdate": "2025-02-24T21:47:24+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "2w8aCBoh3KYJC58KZfCONStuiSF3",
+      "lastUpdate": "2025-02-24T21:47:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "2ZRjSxdRAZaXHu5y3N56iLKZrpY2",
+      "lastUpdate": "2025-02-24T21:47:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "4CXqW5C9uEZB0AkHj7RGKS9myiM2",
+      "lastUpdate": "2025-02-24T21:47:30+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "3kHjm39azGcPph3jNE8uF7wmWyB2",
+      "lastUpdate": "2025-02-24T21:47:30+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "5W8ZtNZ1pQe5ntVYmiiAnbUBtGn2",
+      "lastUpdate": "2025-02-24T21:47:35+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "5EkT4rTZnQg7g0zl35GsRjokfpl1",
+      "lastUpdate": "2025-02-24T21:47:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "8FmKf9gfogVSHZrE6iUivGoPIjk2",
+      "lastUpdate": "2025-02-24T21:47:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "9EJdGgEEIjhyDXcSOfhwTmoYE8j2",
+      "lastUpdate": "2025-02-24T21:47:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "AEGEA0n9TLXbgQUBDjEZqIGkZ913",
+      "lastUpdate": "2025-02-24T21:47:45+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "A20l5fKfvSfNjdhN7bkkCeAnS3I3",
+      "lastUpdate": "2025-02-24T21:47:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "BsGSekT2HYe39vOg4sSYdptVpRz2",
+      "lastUpdate": "2025-02-24T21:47:50+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "BR0NAWCX2pf3i3ZlJ7mqmLL3GTl1",
+      "lastUpdate": "2025-02-24T21:47:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "DOOZuWqV0GQU4LSM3EtXKtyY9023",
+      "lastUpdate": "2025-02-24T21:47:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "DFPSu869cuMBA9DqUhuo6LGLZ1z2",
+      "lastUpdate": "2025-02-24T21:47:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "FIcDVGNDZIWtsJEJF7ac6vwsVBp2",
+      "lastUpdate": "2025-02-24T21:47:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "EBKrQASxnabFwoBbUXmXLi518Cb2",
+      "lastUpdate": "2025-02-24T21:47:58+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "FUmNZPZgQlT9YeMTEiNm27ekVpM2",
+      "lastUpdate": "2025-02-24T21:48:02+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "FZgx4i6Ej2NlYNzaPFTICqYDFBQ2",
+      "lastUpdate": "2025-02-24T21:48:03+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "Fmckpn9WqqXk0p4uB8VdUxffzyA2",
+      "lastUpdate": "2025-02-24T21:48:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "FbOGIjAgPccrFtIbNCRMBv1ntFH3",
+      "lastUpdate": "2025-02-24T21:48:07+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "GiS6wZeQhdbhGkffW6OiQZO7pHV2",
+      "lastUpdate": "2025-02-24T21:48:11+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "GDd1tFf6WVgHaouq6TbJ9NaNNOB2",
+      "lastUpdate": "2025-02-24T21:48:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "JtlQ7X3RTybFszroJIXokECZKqJ3",
+      "lastUpdate": "2025-02-24T21:48:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "HfDcQLXOGHfNZZVq1No3SJvm2483",
+      "lastUpdate": "2025-02-24T21:48:16+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "LWqHGPqJ9uO56dzPQ15fSsAQJg83",
+      "lastUpdate": "2025-02-24T21:48:21+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "K7xixWRdUDhg4rmbZubqXufRTRy2",
+      "lastUpdate": "2025-02-24T21:48:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "MBHc2XyCBZc7rxDOjxm1LcZOwWt2",
+      "lastUpdate": "2025-02-24T21:48:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "Lm3JtDTjgjUVLX9W9ArIKbB5Sc52",
+      "lastUpdate": "2025-02-24T21:48:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "MBPg00Dk21aL0s1YKjyRfZf1rQC3",
+      "lastUpdate": "2025-02-24T21:48:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "NDm23vQfZwOZBYs59vqQ52pS5LQ2",
+      "lastUpdate": "2025-02-24T21:48:30+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "NMgG1ZPNVleTK6qa5gxCNNugZ1b2",
+      "lastUpdate": "2025-02-24T21:48:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "NONCEtFtvfSidgXSWUgSaO9WKd83",
+      "lastUpdate": "2025-02-24T21:48:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "Nq30PohM2oQxhfYG5TNmHyRHMet2",
+      "lastUpdate": "2025-02-24T21:48:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "PHQONK6JSrOcIU3EV544TaSojaE2",
+      "lastUpdate": "2025-02-24T21:48:39+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "Q07cvii7BQaDU9BpkSiBfppTx2X2",
+      "lastUpdate": "2025-02-24T21:48:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "PLlrfTH4Y8WDq8fhY0GvKJmNVLi1",
+      "lastUpdate": "2025-02-24T21:48:43+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "TPaM6yHcKoU5XZDOxlWp5QCY6NG2",
+      "lastUpdate": "2025-02-24T21:48:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "QhnQZOjilnWzmaTqCrwsCRtJ42z1",
+      "lastUpdate": "2025-02-24T21:48:48+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "Tb79Guq54IVrDWaIemcy8v4lFjS2",
+      "lastUpdate": "2025-02-24T21:48:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "UcYNlnOwIvahPGOH0GNnPQzD7Fu1",
+      "lastUpdate": "2025-02-24T21:48:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "W409ucoyEMTi7baI7yAMOC3qZSy1",
+      "lastUpdate": "2025-02-24T21:48:55+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "UiD0lkUSqecgTUe7djLxkjzMnmT2",
+      "lastUpdate": "2025-02-24T21:48:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "YaUEVgVy3xb7pw9hk7j8w7Ddf7e2",
+      "lastUpdate": "2025-02-24T21:49:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "XFOZ6ZL6AnMlBYyLzqyiQBrkEey2",
+      "lastUpdate": "2025-02-24T21:49:00+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "aDJpqhdSeuMVM0L4x76hSXOiOJR2",
+      "lastUpdate": "2025-02-24T21:49:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "ZTsXnhHMjPNEBANoZEebMDP7jm73",
+      "lastUpdate": "2025-02-24T21:49:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "aqMjumTUe2XCsixwF1YA4fSv7oJ3",
+      "lastUpdate": "2025-02-24T21:49:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "aHlMzkfYjVhY9COWLgOxdfE5Qlf2",
+      "lastUpdate": "2025-02-24T21:49:08+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "cGN0tEk7GkXhy5y30j1kJer6IPh2",
+      "lastUpdate": "2025-02-24T21:49:12+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "bWr0C782NsSmEm5vFzS40Nwo9Xl2",
+      "lastUpdate": "2025-02-24T21:49:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "ccZzrtyAtEQjDfPAwlhJTmzxgbh2",
+      "lastUpdate": "2025-02-24T21:49:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "cWDNB9wdoxczQeV51s1NF2WF0I33",
+      "lastUpdate": "2025-02-24T21:49:19+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "di9B1s0gV7WLVD0AH4OXT5HBhF02",
+      "lastUpdate": "2025-02-24T21:49:23+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "d9aINC6pZTZPNTELyNlZ8DX4Pds2",
+      "lastUpdate": "2025-02-24T21:49:27+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "eK7IsDYy6eRqXUXfIoKVcob6KQn2",
+      "lastUpdate": "2025-02-24T21:49:32+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "dq3HLQoSLXbPJYt6reDiJh7tRXm2",
+      "lastUpdate": "2025-02-24T21:49:34+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "eov6nOjUTleEw37NHfBBtYVEx1r2",
+      "lastUpdate": "2025-02-24T21:49:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "eNUaE9kKY3eAwr5rvim8WIvccN03",
+      "lastUpdate": "2025-02-24T21:49:38+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "hC0h3mvuHAYqUoz8tP3PKYBcLE62",
+      "lastUpdate": "2025-02-24T21:49:41+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "gQVQOLuu73VgDTUZV4j8ZFbhAX83",
+      "lastUpdate": "2025-02-24T21:49:42+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "hHO0VTsKTzN9cYs8pDeDwvbiwLg2",
+      "lastUpdate": "2025-02-24T21:49:46+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "hwORvc11NPMXpmAfZjmo4iU4gvO2",
+      "lastUpdate": "2025-02-24T21:49:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "iShpuYSZhpdwY6feGLENMr9jVKK2",
+      "lastUpdate": "2025-02-24T21:49:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "iN8Kp0DoGbdB4rtBucmO22MrO893",
+      "lastUpdate": "2025-02-24T21:49:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "isI0Y0tJiMa7rAHrAZBLGtQ8FIa2",
+      "lastUpdate": "2025-02-24T21:49:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "j4Ju9FJLaqfpWWFpkG2DI3DP8Ym1",
+      "lastUpdate": "2025-02-24T21:49:56+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "kR6pJzCQUlfwUFQVYwQN2hcVUxv2",
+      "lastUpdate": "2025-02-24T21:49:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "jQxMcsrUKqabCvGcp7NVEpN7vN72",
+      "lastUpdate": "2025-02-24T21:49:59+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "lifZcZ40JuTAfQq1VCmgXfDy7Bn2",
+      "lastUpdate": "2025-02-24T21:50:04+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "kccrMeQteBhBEdGrubs4HdVGcis1",
+      "lastUpdate": "2025-02-24T21:50:06+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "nJPHim3R5KYcydnk3VHAovag2gm2",
+      "lastUpdate": "2025-02-24T21:50:10+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "m1394OvBEHWu0NrB5cyQ8lwfYU83",
+      "lastUpdate": "2025-02-24T21:50:10+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "oMI1Rlw6ruQ8MZhR0XL25LVyzN02",
+      "lastUpdate": "2025-02-24T21:50:13+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "o9O7sR9XpfTCPVjW48e2ugEG6IE2",
+      "lastUpdate": "2025-02-24T21:50:14+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "rLGUermge6TOBLC3rcwOGvpnrRy1",
+      "lastUpdate": "2025-02-24T21:50:18+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "pTTtQoPzGkTH9k6HvBetEevO4Gx2",
+      "lastUpdate": "2025-02-24T21:50:19+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "rj7OefzyHJObFJ6c2xHNugrXaIl1",
+      "lastUpdate": "2025-02-24T21:50:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "rN0DPLQ9mYbnMJG4IqUkn076bey2",
+      "lastUpdate": "2025-02-24T21:50:22+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "sZ2bkZXCjqYgIJWtrHZZX5CdAIg1",
+      "lastUpdate": "2025-02-24T21:50:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "sMVYkExo7sazGxLQ4jBeYhOAki52",
+      "lastUpdate": "2025-02-24T21:50:25+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "syl3WGzCh6cTCZ4wQa4v9ACpdtz2",
+      "lastUpdate": "2025-02-24T21:50:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "stUTKeraxlSx0YLeYufKB63PTEG3",
+      "lastUpdate": "2025-02-24T21:50:29+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "tgG3S23D9pNaMRPqOOkKRhCqcPr1",
+      "lastUpdate": "2025-02-24T21:50:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "tRvzAsTFyDUdnQVtVjtOj4oSnuq1",
+      "lastUpdate": "2025-02-24T21:50:33+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "twoUu5reSVfZcygkxOabEiXE5eU2",
+      "lastUpdate": "2025-02-24T21:50:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "u5Yof3Ev8aeiT2dmpoTqMh0lgEg1",
+      "lastUpdate": "2025-02-24T21:50:37+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "urxmZeQmfkdDU9aZqYREvDvJfbF3",
+      "lastUpdate": "2025-02-24T21:50:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "u87rmB8CxuUpc48fdwarDaExA3C3",
+      "lastUpdate": "2025-02-24T21:50:40+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "vZTfvjocp4TPm6x3JRknWaodBKB3",
+      "lastUpdate": "2025-02-24T21:50:44+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "vRxIsaxbjadYUkq1zOgPNEGpomf1",
+      "lastUpdate": "2025-02-24T21:50:44+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "ykTDQGAv40UlLKxPMQxgrzc6b6s2",
+      "lastUpdate": "2025-02-24T21:50:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "y7Qf8TFX6qYzoTGtwuMKySp9dRJ2",
+      "lastUpdate": "2025-02-24T21:50:47+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "zJpfzd2o3aUKDmWOVd2RSA03ant1",
+      "lastUpdate": "2025-02-24T21:50:51+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    },
+    {
+      "fbUid": "zsfEdauvficVJ2jFkyptmpD5odo1",
+      "lastUpdate": "2025-02-24T21:50:52+09:00",
+      "consecutiveWeeks": 1,
+      "totalDetections": 1,
+      "type": "1",
+      "country": "VN"
+    }
+  ]
+}
